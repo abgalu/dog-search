@@ -1,0 +1,12 @@
+.button {
+  width: 100%;
+}
+
+.row {
+  display: block;
+}
+
+.selected {
+  background-color: #52c41a !important;
+  border: #52c41a;
+}

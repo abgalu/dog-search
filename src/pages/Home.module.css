@@ -1,0 +1,23 @@
+.button {
+  height: 100px;
+  padding: 16px;
+  width: 100px;
+}
+
+.button span {
+  white-space: normal;
+}
+
+.home {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: space-evenly;
+}
+
+@media (min-width: 768px) {
+  .home {
+    flex-direction: row;
+  }
+}

@@ -1,0 +1,12 @@
+.button {
+  width: 100%;
+}
+
+.imageBlock {
+  margin-top: 16px;
+}
+
+.selected {
+  background-color: #52c41a !important;
+  border: #52c41a;
+}

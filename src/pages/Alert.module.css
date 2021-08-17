@@ -1,0 +1,23 @@
+.alert {
+  padding: 32px 16px;
+}
+
+.card {
+  margin: 16px 0;
+}
+
+.mapContainer {
+  height: 80vw;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .alert {
+    margin: auto;
+    width: 50%;
+  }
+
+  .mapContainer {
+    height: 40vw;
+  }
+}

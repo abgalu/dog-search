@@ -1,0 +1,12 @@
+.date {
+  width: 100%;
+}
+
+.label {
+  display: block;
+  margin-bottom: 16px;
+}
+
+.select {
+  width: 100%;
+}
